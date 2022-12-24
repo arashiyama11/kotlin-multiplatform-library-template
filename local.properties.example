@@ -1,0 +1,9 @@
+# The GPG key pair ID (last 8 digits of its fingerprint)
+signing.keyId=12345678
+# The passphrase of the key pair
+signing.password=pass
+# Private key you exported earlier
+signing.secretKeyRingFile=private-key
+# Your credentials for the Jira account
+ossrhUsername=jiraName
+ossrhPassword=jiraPass
